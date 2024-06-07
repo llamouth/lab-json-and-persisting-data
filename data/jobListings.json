@@ -1,0 +1,59 @@
+[
+  {
+    "_id": "2da2dc10-9eeb-4ae6-b8e3-2e7c085d3073",
+    "companyName": "Lueilwitz, Weimann and Ritchie",
+    "companyAddress": "2689 Monahan Summit Apt. 557",
+    "companyPhoneNumber": {
+      "number": "1-524-481-0001"
+    },
+    "isHiring": false,
+    "hiringManager": "Stuart Marks",
+    "catchPharse": "Synchronised holistic system engine"
+  },
+  {
+    "_id": "6fa22405-4cde-4dec-9666-ccad39124f9b",
+    "companyName": "Hackett - Wyman",
+    "companyAddress": "9202 Emard Pines Suite 196",
+    "companyPhoneNumber": {
+      "number": "948-685-2982"
+    },
+    "isHiring": true,
+    "hiringManager": "Felipe Nienow Sr.",
+    "catchPharse": "Polarised executive capability"
+  },
+  {
+    "_id": "0a57d378-dbc9-4b85-bb26-3c06bba7bccb",
+    "companyName": "Ritchie - Jakubowski",
+    "companyAddress": "8704 Pfannerstill Trafficway Suite 658",
+    "companyPhoneNumber": {
+      "number": "(945) 432-6312"
+    },
+    "isHiring": true,
+    "hiringManager": "Sean Leannon",
+    "catchPharse": "Organic client-driven throughput"
+  },
+  {
+    "_id": "17fd62a4-cbc7-4a10-8af1-ac6e575e6894",
+    "companyName": "Toy Inc",
+    "companyAddress": "1221 Bednar Place Apt. 286",
+    "companyPhoneNumber": {
+      "number": "(578) 917-4995",
+      "extension": "x8035"
+    },
+    "isHiring": false,
+    "hiringManager": "Ms. Cecelia Runte",
+    "catchPharse": "Pre-emptive context-sensitive pricing structure"
+  },
+  {
+    "_id": "d467f70b-7b54-49fe-a1b5-8c1c3d228a5e",
+    "companyName": "Rohan, Vandervort and Schoen",
+    "companyAddress": "797 Beryl Villages Apt. 132",
+    "companyPhoneNumber": {
+      "number": "(748) 429-9410",
+      "extension": "x5832"
+    },
+    "isHiring": false,
+    "hiringManager": "Nicole Luettgen",
+    "catchPharse": "Open-source motivating hierarchy"
+  }
+]
