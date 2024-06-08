@@ -1,4 +1,4 @@
-const { randomJob, randomJobFactory} = require("../job")
+const { randomJob, randomJobFactory} = require("../job.cjs")
 
 describe("Job Listing", () => {
 

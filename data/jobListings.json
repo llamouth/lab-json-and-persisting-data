@@ -1,59 +1,110 @@
 [
   {
-    "_id": "2da2dc10-9eeb-4ae6-b8e3-2e7c085d3073",
-    "companyName": "Lueilwitz, Weimann and Ritchie",
-    "companyAddress": "2689 Monahan Summit Apt. 557",
+    "id": "42ffe19b-ff71-46fb-9640-572878c85173",
+    "companyName": "Parker, Johnston and Hahn",
+    "companyAddress": "47382 Hills Ports Suite 662",
     "companyPhoneNumber": {
-      "number": "1-524-481-0001"
+      "number": "498.551.2490",
+      "extension": "x79122"
     },
-    "isHiring": false,
-    "hiringManager": "Stuart Marks",
-    "catchPharse": "Synchronised holistic system engine"
+    "salary": "$356,436.44",
+    "hiringManager": "Ira Schowalter",
+    "catchPharse": "Integrated intermediate ability"
   },
   {
-    "_id": "6fa22405-4cde-4dec-9666-ccad39124f9b",
-    "companyName": "Hackett - Wyman",
-    "companyAddress": "9202 Emard Pines Suite 196",
+    "id": "4e9ae40b-60ad-4976-b019-474b7731ffe7",
+    "companyName": "West Inc",
+    "companyAddress": "63282 Armand Union Suite 558",
     "companyPhoneNumber": {
-      "number": "948-685-2982"
+      "number": "(324) 559-9852",
+      "extension": "735-0002"
     },
-    "isHiring": true,
-    "hiringManager": "Felipe Nienow Sr.",
-    "catchPharse": "Polarised executive capability"
+    "salary": "$192,612.46",
+    "hiringManager": "Kristina Shields",
+    "catchPharse": "Face to face heuristic orchestration"
   },
   {
-    "_id": "0a57d378-dbc9-4b85-bb26-3c06bba7bccb",
-    "companyName": "Ritchie - Jakubowski",
-    "companyAddress": "8704 Pfannerstill Trafficway Suite 658",
+    "id": "08503842-238a-463c-ab82-31e6b8f092d0",
+    "companyName": "Yundt - Rogahn",
+    "companyAddress": "38332 Clovis Squares Apt. 945",
     "companyPhoneNumber": {
-      "number": "(945) 432-6312"
+      "number": "1-467-977-1222",
+      "extension": "x29522"
     },
-    "isHiring": true,
-    "hiringManager": "Sean Leannon",
-    "catchPharse": "Organic client-driven throughput"
+    "salary": "$120,188.05",
+    "hiringManager": "Philip Hartmann",
+    "catchPharse": "Devolved 4th generation initiative"
   },
   {
-    "_id": "17fd62a4-cbc7-4a10-8af1-ac6e575e6894",
-    "companyName": "Toy Inc",
-    "companyAddress": "1221 Bednar Place Apt. 286",
+    "id": "4b1387ea-5525-49d9-a3ff-fb67b9229d8f",
+    "companyName": "Bosco Inc",
+    "companyAddress": "3883 S Walnut Street Apt. 937",
     "companyPhoneNumber": {
-      "number": "(578) 917-4995",
-      "extension": "x8035"
+      "number": "1-924-544-1356",
+      "extension": "x1603"
     },
-    "isHiring": false,
-    "hiringManager": "Ms. Cecelia Runte",
-    "catchPharse": "Pre-emptive context-sensitive pricing structure"
+    "salary": "$383,616.82",
+    "hiringManager": "Edward Walker",
+    "catchPharse": "Inverse 24 hour service-desk"
   },
   {
-    "_id": "d467f70b-7b54-49fe-a1b5-8c1c3d228a5e",
-    "companyName": "Rohan, Vandervort and Schoen",
-    "companyAddress": "797 Beryl Villages Apt. 132",
+    "id": "f401eae1-33f4-4d1c-a524-a9abc89c5350",
+    "companyName": "Lang, Bechtelar and Little",
+    "companyAddress": "14660 Maureen Dale Suite 812",
     "companyPhoneNumber": {
-      "number": "(748) 429-9410",
-      "extension": "x5832"
+      "number": "(928) 409-8566",
+      "extension": "x6735"
     },
-    "isHiring": false,
-    "hiringManager": "Nicole Luettgen",
-    "catchPharse": "Open-source motivating hierarchy"
+    "salary": "$193,373.78",
+    "hiringManager": "Wade Senger",
+    "catchPharse": "Adaptive empowering budgetary management"
+  },
+  {
+    "id": "d344b37a-4682-49f1-b921-a36fdfb2bfe2",
+    "companyName": "Watsica Inc",
+    "companyAddress": "42403 Garden Street Suite 966",
+    "companyPhoneNumber": {
+      "number": "955.244.9747",
+      "extension": "524-3617"
+    },
+    "salary": "$411,180.82",
+    "hiringManager": "Lorene Kulas",
+    "catchPharse": "Optimized attitude-oriented portal"
+  },
+  {
+    "id": "55dc5a25-618d-4389-ab01-e8cc75e5e464",
+    "companyName": "Fadel, Keebler and Metz",
+    "companyAddress": "73981 N Broad Street Apt. 725",
+    "companyPhoneNumber": {
+      "number": "1-883-426-5269",
+      "extension": "x759"
+    },
+    "salary": "$142,959.81",
+    "hiringManager": "Mr. Bryant Romaguera",
+    "catchPharse": "Mandatory fresh-thinking focus group"
+  },
+  {
+    "id": "f8eadbd3-21cd-47a8-b7b3-35dbe8fbe355",
+    "companyName": "Borer, O'Keefe and Murazik",
+    "companyAddress": "94052 N 3rd Street Suite 518",
+    "companyPhoneNumber": {
+      "number": "769-422-2638",
+      "extension": "x7052"
+    },
+    "salary": "$105,655.42",
+    "hiringManager": "Gladys Dooley",
+    "catchPharse": "Optional heuristic focus group"
+  },
+  {
+    "id": "44c7895a-42e9-4468-8b6b-e2721f9e1790",
+    "companyName": "Beatty Inc",
+    "companyAddress": "789 Rosamond Mission Suite 675",
+    "companyPhoneNumber": {
+      "number": "980-651-7727",
+      "extension": "687-2957"
+    },
+    "salary": "$430,219.41",
+    "hiringManager": "Merle Schaden",
+    "catchPharse": "Face to face user-facing hardware"
   }
 ]

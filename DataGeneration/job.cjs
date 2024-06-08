@@ -10,14 +10,11 @@ const randomJob = () => {
             extension: faker.phone.number().split(" ")[1]
         },
         salary: faker.finance.amount({min:40000, max:500000, dec:2, symbol: "$", autoFormat: true}),
-        isHiring: faker.datatype.boolean(),
         hiringManager: faker.person.fullName(),
         catchPharse: faker.company.catchPhrase(),
     }
     return company
 }
-
-randomJob()
 
 const randomJobFactory = (number) => {
     const listOfCompanies = [];

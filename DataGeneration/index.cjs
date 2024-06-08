@@ -1,5 +1,5 @@
-const { randomJob, randomJobFactory } = require('./job')
-const { writeJsonFile, readJsonFile } = require("./helpers")
+const { randomJob, randomJobFactory } = require('./job.cjs')
+const { writeJsonFile, readJsonFile } = require("./helpers.cjs")
 
 const run = () => {
     const jobs = readJsonFile("./data", "jobListings.json")
